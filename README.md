@@ -1,2 +1,2 @@
 # Lamb_CUSP
-Clustering via Latent factor mixture exploting CUSP prior
+Bayesian nonparamteric clustering for high dimensional data via infinite factorization (CUSP prior distribution)
